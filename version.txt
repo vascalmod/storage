@@ -1,6 +1,5 @@
 {
 "kernel": "3.0.4",
 "userspace": "3.0.4",
-"virtual": "2.0.3",
-"@cloudvip-kernel": "3.0.4"
+"virtual": "2.0.3"
 }
